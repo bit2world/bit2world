@@ -1,21 +1,19 @@
 <div>
 <h1 align="center">
-🙋‍♂️  Senior Frontend Developer
+Flexible Full-Stack Developer
 </div>
 
 ### Intro
 
-Frontend developer with proven experience  in helping companies create and maintain a better code base for reusability. 
-
-Updating daily work, good communication skill ...
+Full-Stack developers especially someone who love to work with creative and flexible clients.
 
 ### About
 
-🎅 Passionate and creative Frontend developer with over 7 years experience.
+🎅 Creative and Flexible Frontend developer with over 7+ years experience
 
-💥 Focusing on the vue.js Framework with various kinda industry.
+💥 Focusing on meaningful work with people who make you laugh!
 
-👨‍🎓 Bachelor's Degree in Computer Science
+👨‍🎓 Degree of Bachelor Degree in Computer Science
 
 ### Summary
 

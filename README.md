@@ -90,7 +90,7 @@ Full-Stack developers especially someone who love to work with creative and flex
   &emsp; 
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
    &emsp; 
-  <img alt="Dart" src="https://img.shields.io/badge/Solidity-green">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-green">
 </p>
 
 ### 👉 Frontend Development

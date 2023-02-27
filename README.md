@@ -19,8 +19,6 @@ Full-Stack developers especially someone who love to work with creative and flex
 
 - Contributor at <b><a href="https://www.layermark.com/">Layermark</a></b> 's  <b><a href="https://globalwaterawards.com/2022-smart-water-project-of-the-year/">Global Water Award</a></b> as a Frontend developer
 
-
-
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bit2world&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit2world&layout=compact&theme=merko&count_private=true" />

@@ -89,16 +89,14 @@ Full-Stack developers especially someone who love to work with creative and flex
    &emsp; 
   <img alt="Dart" src="https://img.shields.io/badge/Dart-green">
   
-   &emsp; 
   <img alt="Python" src="https://img.shields.io/badge/Python-green">
   
-   &emsp; 
+
   <img alt="jQuery" src="https://img.shields.io/badge/JQuery-green">
   
-   &emsp; 
+
   <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML/CSS-green">
   
-   &emsp; 
   <img alt="PHP" src="https://img.shields.io/badge/PHP-green">
   
 </p>

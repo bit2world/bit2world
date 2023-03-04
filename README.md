@@ -17,7 +17,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 <h3>🛠 Tech Stack</h3>
 
 - 💻 👉 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
-  <p align="left"> 
+ 
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
@@ -27,7 +27,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   &emsp; 
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
    &emsp; 
-</p>
+
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
@@ -40,13 +40,13 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva  
-  <p align="left">
+ 
     &emsp; 
     <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
     &emsp;
     <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
     &emsp;
-  </p>
+ 
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 </div>
   

@@ -4,7 +4,8 @@
 </div>
   
 As a Creative and Flexible Frontend developer with over 7+ years experience, I love to work with innovative and flexible clients.
-  
+
+  <div align="left">
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Talented Developer who can confidently build and develop for a longstanding well maintained diverse project.
@@ -20,12 +21,14 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva |
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
-
+</div>
+  
+ <div align="right"> 
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bit2world&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit2world&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
-
+  </div>
 <br/>
 <table>
   <tr>

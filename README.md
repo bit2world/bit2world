@@ -7,15 +7,15 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Information System at University of Nusa Putra.
-- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freelancer have been 2 years
+- 🤔 &nbsp; Talented Developer who can confidently build and develop for a longstanding well maintained diverse project.
+- 🎓 &nbsp; Experienced in working with MERN, RESTful and GraphQL APIs , Mobile App.
+- 💼 &nbsp; Experienced Work at Web Company as a front-end engineer and Freelancer have been 2 years
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | CodeIgniter | Laravel | fluter | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
+- 💻 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva |

@@ -17,8 +17,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 <h3>🛠 Tech Stack</h3>
 
 - 💻 👉 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
- 
-  &emsp;
+  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
@@ -39,8 +38,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva  
- 
-    &emsp; 
+  
     <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
     &emsp;
     <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">

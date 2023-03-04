@@ -26,21 +26,6 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit2world&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Information System at University of Nusa Putra.
-- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freelancer have been 2 years
-- 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; PHP | CodeIgniter | Laravel | fluter | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB | Postgres
-- 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva |
-
 <br/>
 <table>
   <tr>

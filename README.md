@@ -25,7 +25,6 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
   &emsp; 
  
-
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
@@ -38,7 +37,6 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva  
-  
     <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
     &emsp;
     <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">

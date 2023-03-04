@@ -1,23 +1,25 @@
 <div>
 <h1 align="center">
-Flexible Full-Stack Developer
+  Flexible Full-Stack Developer
 </div>
+  
+As a Creative and Flexible Frontend developer with over 7+ years experience, I love to work with innovative and flexible clients.
+  
+<h3> 👨🏻‍💻 About Me </h3>
 
-### Intro
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Information System at University of Nusa Putra.
+- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freelancer have been 2 years
+- 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
-Full-Stack developers especially someone who love to work with creative and flexible clients.
+<h3>🛠 Tech Stack</h3>
 
-### About
-
-🎅 Creative and Flexible Frontend developer with over 7+ years experience
-
-💥 Focusing on meaningful work with people who make you laugh!
-
-👨‍🎓 Degree of Bachelor Degree in Computer Science
-
-### Summary
-
-- Contributor at <b><a href="https://www.layermark.com/">Layermark</a></b> 's  <b><a href="https://globalwaterawards.com/2022-smart-water-project-of-the-year/">Global Water Award</a></b> as a Frontend developer
+- 💻 &nbsp; PHP | CodeIgniter | Laravel | fluter | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
+- 🛢 &nbsp; MySQL | MongoDB | Postgres
+- 🔧 &nbsp; Git | Gitlab | Bitbucket
+- 🖥 &nbsp; UI / UX | Figma | Canva |
+- 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bit2world&show_icons=true&theme=merko&count_private=true" />

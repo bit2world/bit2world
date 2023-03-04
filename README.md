@@ -16,7 +16,18 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
+- 💻 👉 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
+  <p align="left"> 
+  &emsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
+  &emsp;
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
+  &emsp;
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
+  &emsp; 
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
+   &emsp; 
+</p>
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-indigo">
@@ -28,7 +39,14 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva |
+- 🖥 &nbsp; UI / UX | Figma | Canva  
+  <p align="left">
+    &emsp; 
+    <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
+    &emsp;
+    <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
+    &emsp;
+  </p>
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 </div>
   
@@ -91,49 +109,3 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
 </div>
 
-  ### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
-  &emsp;
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
-  &emsp;
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
-  &emsp; 
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
-   &emsp; 
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-green">
-  
-  <img alt="Python" src="https://img.shields.io/badge/Python-green">
-  
-
-  <img alt="jQuery" src="https://img.shields.io/badge/JQuery-green">
-  
-
-  <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML/CSS-green">
-  
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-green">
-  
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <img alt="React" src="https://img.shields.io/badge/React-indigo">
-  &emsp;
-  <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
-  &emsp;
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
-  &emsp;
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
-</p>
-
-### 👉Blockchain
-<p align="left">
-  &emsp; 
-  <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
-  &emsp;
-</p>

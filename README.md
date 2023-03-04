@@ -25,8 +25,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
   &emsp;
   <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
   &emsp; 
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
-   &emsp; 
+ 
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
   &emsp; 
@@ -46,6 +45,8 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
     &emsp;
     <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
     &emsp;
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
+   &emsp; 
  
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 </div>

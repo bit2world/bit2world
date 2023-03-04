@@ -17,7 +17,15 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
+  &emsp; 
+  <img alt="React" src="https://img.shields.io/badge/React-indigo">
+  &emsp;
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
+  &emsp;
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva |

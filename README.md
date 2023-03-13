@@ -30,7 +30,7 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
    &emsp;
   <img alt="GraphQL" src="https://img.shields.io/badge/DATABASE MANAGEMENT-blue">
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; Blockchain Technology   
+- 🖥 &nbsp; Blockchain Technology 
    &emsp;
    <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
    &emsp;

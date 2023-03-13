@@ -16,14 +16,16 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 👉 &nbsp; Javascript | React | PHP | Laravel | flutter
+- 💻 👉 &nbsp; React | Node | Express | Laravel | Flutter
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp;
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-blue">
-  &emsp; 
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-blue">
+  &emsp;
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-blue">
+  
  
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
   &emsp; 
@@ -37,12 +39,12 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva  
-    <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
+     &emsp;
+     <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
     &emsp;
     <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
     &emsp;
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
-   &emsp; 
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
  
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 </div>

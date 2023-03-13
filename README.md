@@ -39,12 +39,12 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva  
-     &emsp;
-     <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
+   &emsp;
+   <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
+   &emsp;
+  <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
     &emsp;
-    <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
-    &emsp;
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-gray">
  
 - 👨‍🎓 &nbsp; Degree of Bachelor Degree in Computer Science
 </div>

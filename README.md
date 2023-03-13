@@ -16,7 +16,7 @@ As a Creative and Flexible Frontend developer with over 7+ years experience, I l
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 👉 &nbsp; Javascript |PHP | CodeIgniter | Laravel | flutter | Python
+- 💻 👉 &nbsp; Javascript | React | PHP | Laravel | flutter
   
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;

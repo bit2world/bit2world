@@ -11,12 +11,12 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
 
 - 🤔 &nbsp; Talented Developer who can confidently build and develop for a longstanding well maintained diverse project.
 - 🎓 &nbsp; Experienced in working with MERN, RESTful and GraphQL APIs , Mobile App.
-- 💼 &nbsp; Experienced Work at Web Company as a front-end engineer and Freelancer have been 2 years
+- 💼 &nbsp; Experienced Work at CheTu as a front-end engineer and Freelancer have been 2 years
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 👉 &nbsp; React | Node | Express | Laravel | Flutter
+- 💻 👉 &nbsp; React | Node | Express | Angular| Laravel | Flutter
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
@@ -26,19 +26,11 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
   &emsp;
   <img alt="Dart" src="https://img.shields.io/badge/Dart-blue">
   
- 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | Angular | Vuejs | Reactjs 
-  &emsp; 
-  <img alt="React" src="https://img.shields.io/badge/React-indigo">
-  &emsp;
-  <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
-  &emsp;
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
-  &emsp;
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
 - 🛢 &nbsp; MySQL | MongoDB | Postgres
+   &emsp;
+  <img alt="GraphQL" src="https://img.shields.io/badge/DATABASE MANAGEMENT-blue">
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva  
+- 🖥 &nbsp; Blockchain Technology   
    &emsp;
    <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
    &emsp;

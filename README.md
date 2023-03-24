@@ -12,7 +12,7 @@ As a Creative and Flexible Full Stack Developer with over 7+ years experience, I
 - 🤔 &nbsp; Talented Developer who can confidently build and develop for a longstanding well maintained diverse project.
 - 🎓 &nbsp; Experienced in working with React, Next.js, Angular, Vue, Node, MongoDB, PHP/Laravel, Wordpress, RESTful API, GraphQL APIs ,
       &nbsp; Mobile App(Flutter, Dart, React Native), AWS, Agile Development, DevOps and Problem Solving Power.
-- 💼 &nbsp; Experienced Work at CheTu as a front-end engineer and Freelancer have been 3 years
+- 💼 &nbsp; Experienced Work at CheTu as a full stack engineer and Freelancer have been 3 years
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <table>

@@ -1,9 +1,6 @@
-<div>
-  <h1 align="center">
-    Flexible Full-Stack Developer
-  <h1>
-</div>
-
+<h1 align="center">
+   Flexible Full-Stack Developer
+<h1>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>

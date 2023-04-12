@@ -1,19 +1,8 @@
 <div>
-<h1 align="center">
-  Flexible Full-Stack Developer
+  <h1 align="center">
+    Flexible Full-Stack Developer
+  <h1>
 </div>
-  
-As a Creative and Flexible Full Stack Developer with over 7+ years experience, I love to work with innovative and flexible clients.
-
-<div display="flex">
-<div align="left" width="70%">
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Talented Developer who can confidently build and develop for a longstanding well maintained diverse project.
-- 🎓 &nbsp; Experienced in working with React, Next.js, Angular, Vue, Node, MongoDB, PHP/Laravel, Wordpress, RESTful API, GraphQL APIs ,
-      &nbsp; Mobile App(Flutter, Dart, React Native), AWS, Agile Development, DevOps and Problem Solving Power.
-- 💼 &nbsp; Experienced Work at CheTu as a full stack engineer and Freelancer have been 3 years
-- 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <table>
   <tr>
